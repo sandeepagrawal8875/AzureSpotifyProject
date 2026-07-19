@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryspotify26",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8f4de16-5e11-44c8-bc56-c2538449dc44",
+		"tenantId": "de01942e-d378-4d51-be5b-109160f7bc4b"
+	}
+}
